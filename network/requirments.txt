@@ -1,0 +1,6 @@
+#strat
+we have tw combination 
+1. linux - php - apache - mySQL
+2. windows - IIS - asp - MsSQL
+We choose second acording to performance and coolness of linux
+because of using RestFul APIs project is cross platform and developing for different platforms will be esay and fast
