@@ -1,22 +1,22 @@
 # Data Structure
 
-## Node
+## Node {#node}
 - serial : long
 - name [english , persian] : String
 - price : long
-## Category
+## Category {#category}
 - serial : long
 - name [english , persian] : String
 - Array of nodes : node[]
-## Menu
+## Menu  {#menu}
 - serial : long
 - name [english , persian] : String
 - Array of categories : 
 
-## Oredr
+## Oredr {#order}
 - node
 - count
-## SalesInvoice 
+## SalesInvoice {#salesInvoice}
 - serial number
 - Array of order
 - total amount
