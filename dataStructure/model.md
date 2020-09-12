@@ -8,7 +8,7 @@
 - serial : long
 - name [english , persian] : String
 - Array of nodes : node[]
-## Menu  {#menu}
+## Menu {#menu}
 - serial : long
 - name [english , persian] : String
 - Array of categories : 
